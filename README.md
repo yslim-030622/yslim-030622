@@ -5,7 +5,7 @@
 # Hi, I'm Yeongseok Lim! 👨🏻‍💻
 
 **Actively Looking for New Career Opportunities**  
-*- Graduate of [University of Wisconsin-Madison](https://www.wisc.edu/)*  
+*- Alumni of [University of Wisconsin-Madison](https://www.wisc.edu/)*  
 *- Former Software Engineering Intern at [Fasoo, Inc.](https://fasoo.com/)*  
 *- Former Software Engineering Intern at [MoDoc AI](https://www.modoc-ai.com/)*
 
