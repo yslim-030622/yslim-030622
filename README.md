@@ -7,7 +7,7 @@
 **Actively Looking for New Career Opportunities**  
 *- Graduate of [University of Wisconsin-Madison](https://www.wisc.edu/)*  
 *- Former Software Engineering Intern at [Fasoo, Inc.](https://fasoo.com/)*  
-*- Currently a Student Developer at [MoDoc AI](https://www.modoc-ai.com/)*
+*- Former Software Engineering Intern at [MoDoc AI](https://www.modoc-ai.com/)*
 
 [![Portfolio Website](https://img.shields.io/badge/🌐%20Portfolio%20Website-000000?style=flat)](https://yeongseok.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongseok-lim/)
@@ -30,7 +30,7 @@ const yeongseok = {
   pronouns: "he" | "him",
   languages: ["Python", "TypeScript", "Java", "SQL"],
   stack: ["FastAPI", "Spring Boot", "React", "Next.js", "Docker", "Redis"],
-  ml: ["XGBoost", "Pytorch"],
+  ml: ["LangChain", "LangGraph","XGBoost],
   AI tool: ["Codex","Claude code","Antigravity"],
   openTo: "Full-time SWE roles 🔍",
 };
